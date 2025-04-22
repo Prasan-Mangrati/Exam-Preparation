@@ -1,5 +1,7 @@
 # C
 >1. WAP to find area of circle, check odd even, check positive negative using user defined funcitons
+>1. WAP to check odd even user defined funcitons
+>1. WAP to check positive negative using user defined funcitons
 >2. WAP to find factorial of number using user defined funciton
 >3. WAP to enter name, classs, age and rollno of a student and display them
 >1. WAP to enter name, class, age and rollno of 5 student and display them
