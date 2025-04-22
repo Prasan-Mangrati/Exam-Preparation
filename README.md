@@ -1,5 +1,5 @@
 # C
->1. WAP to find area of circle, check odd even, check positive negative using user defined funcitons
+>1. WAP to find area of circle using user defined funcitons
 >1. WAP to check odd even user defined funcitons
 >1. WAP to check positive negative using user defined funcitons
 >2. WAP to find factorial of number using user defined funciton
